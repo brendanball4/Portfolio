@@ -4,9 +4,8 @@
 <html>
 
 <head>
-    <title>Our Funky HTML Page</title>
-    <meta name="description" content="Our first page">
-    <meta name="keywords" content="html tutorial template">
+    <title>Brendan Ball - Developer</title>
+    <?php include 'nav.php';?>
 </head>
 
 <body>
